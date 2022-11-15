@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Berilo Queiroz</h1>
 <h3 align="center">A lover of Engineering, Technology, Science and Innovation. A Developer and fanatic for learning</h3>
 
-- 🔭 I’m currently working on [MaquiADORO](https://www.maquiadoro.com.br)
+- 🔭 I’m currently working on [Buson](https://www.buson.com.br)
 
 - 💬 my interests are **Automation, LADDER, SCADA, PLC, Java, JavaScript, HTML, CSS, SQL, C, C++, Docker, MongoDB, React, NextJs, Physics, Science and Mathematics**
 
