@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Buson](https://www.buson.com.br)
 
-- 💬 my interests are **Automation, LADDER, SCADA, PLC, Java, JavaScript, HTML, CSS, SQL, C, C++, Docker, MongoDB, React, NextJs, Physics, Science and Mathematics**
+- 💬 my interests are **React, JavaScript, HTML, CSS, SQL, C, C++, Docker, MongoDB, React, NextJs, Physics, Automation, LADDER, SCADA, PLC, Java, Science and Mathematics**
 
 - 📫 How to reach me **beriloqueiroz@gmail.com**
 
