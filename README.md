@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Buson](https://www.buson.com.br)
 
-- 💬 my interests are **React, JavaScript, HTML, CSS, SQL, C, C++, Docker, MongoDB, React, NextJs, Physics, Automation, LADDER, SCADA, PLC, Java, Science and Mathematics**
+- 💬 my interests are **React, JavaScript, HTML, CSS, SQL, C, C++, Docker, MongoDB, React, NextJs, Physics, Automation, Java, Science and Mathematics**
 
-- 📫 How to reach me **beriloqueiroz@gmail.com**
+- 📫 How to reach me **berilo.queiroz@gmail.com**
 
 - ⚡ Fun fact **Oneye 😜**
 
