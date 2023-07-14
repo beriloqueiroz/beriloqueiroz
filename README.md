@@ -1,13 +1,11 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Berilo Queiroz</h1>
 <h3 align="center">A lover of Engineering, Technology, Science and Innovation. A Developer and fanatic for learning</h3>
 
-- 🔭 I’m currently working on [Buson](https://www.buson.com.br)
+- I’m currently working on [Buson](https://www.buson.com.br)
 
-- 💬 my interests are **React, JavaScript, HTML, CSS, SQL, C, C++, Docker, MongoDB, React, NextJs, Physics, Automation, Java, Science and Mathematics**
+- My interests are **React, JavaScript, HTML, CSS, SQL, C, C++, Docker, MongoDB, React, NextJs, Physics, Automation, Java, Science and Mathematics**
 
-- 📫 How to reach me **berilo.queiroz@gmail.com**
-
-- ⚡ Fun fact **Oneye 😜**
+- How to reach me **berilo.queiroz@gmail.com**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
@@ -22,16 +20,3 @@
 <p align="center">
 <a href="https://linkedin.com/in/beriloqueiroz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="beriloqueiroz" height="20" width="20" /></a>
 </p>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
