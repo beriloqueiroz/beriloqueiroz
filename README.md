@@ -7,4 +7,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-berilo.queiroz@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berilo.queiroz@gmail.com)](mailto:berilo.queiroz@gmail.com)
 
 - Enthusiast of the best development technologies.
-- My interests are **Java, Springboot, C#, .NET, Nodejs, Typescript, JavaScript, HTML, CSS, SQL, Docker, React, NextJs, Physics, Automation, Science and Mathematics**
+- My interests are **Java, Springboot, Go, C#, .NET, Nodejs, Typescript, JavaScript, HTML, CSS, SQL, Docker, React, NextJs, Physics, Automation, Science and Mathematics**
