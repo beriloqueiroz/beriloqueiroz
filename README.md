@@ -39,25 +39,5 @@ Atualmente **Engenheiro de Software na [Economatica](https://www.economatica.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/beriloqueiroz)
 - 📧 berilo.queiroz@gmail.com
 - 🌐 beriloqueiroz.com.br *(em breve)*
-```
 
----
 
-## Sugestão de Pinned Repos (fixar no perfil)
-
-Para mostrar versatilidade técnica, fixar estes 6 repositórios:
-
-1. **psi-mgnt** (Go) — projeto mais maduro/completo
-2. **bemusic** (Python) — mostra IA/ML + criatividade
-3. **desafio-dev** (Go) — mostra DDD, Clean Arch, Kafka, Redis
-4. **prontu-go** (Go) — microserviços + AWS
-5. **prontu-front** (Svelte) — mostra frontend
-6. **auth-user** (C#/.NET) — mostra versatilidade em linguagens
-
----
-
-## Bio do perfil (Settings → Profile)
-
-```
-Mechatronics Engineer | Software Engineer @ Economatica | Go, Java, AWS, K8s | Fortaleza, CE
-```
